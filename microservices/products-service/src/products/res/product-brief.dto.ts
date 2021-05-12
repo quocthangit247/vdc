@@ -1,6 +1,6 @@
 import { ApiProperty } from '@nestjs/swagger';
 import { LeanDocument } from 'mongoose';
-import { Pagination, ServiceResponse } from 'src/app/common';
+import { Pagination, ServiceResponse } from '../../app/common';
 import { ProductDocument } from '../products.schema';
 
 export class Variant {

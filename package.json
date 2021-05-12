@@ -10,6 +10,7 @@
     ]
   },
   "scripts": {
-    "start": "lerna run start --parallel"
+    "start": "lerna run start --parallel",
+    "test:watch": "lerna run test:watch --parallel"
   }
 }

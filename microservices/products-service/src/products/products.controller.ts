@@ -1,6 +1,6 @@
 import { Body, Controller, Get, Param, Post } from '@nestjs/common';
 import { ApiOkResponse, ApiOperation, ApiTags } from '@nestjs/swagger';
-import { Pagination, ServiceResponse } from 'src/app/common';
+import { Pagination, ServiceResponse } from '../app/common';
 import { ProductsService } from './products.service';
 import { SearchProductReqDto } from './req/search-product.dto';
 import { ProductBriefDto, ProductBriefListRes, ProductDto, ProductRes } from './res';

@@ -1,6 +1,6 @@
 import { ApiProperty } from '@nestjs/swagger';
 import { LeanDocument } from 'mongoose';
-import { ServiceResponse } from 'src/app/common';
+import { ServiceResponse } from '../../app/common';
 import { ProductDocument } from '../products.schema';
 import { ProductBriefDto } from './product-brief.dto';
 
