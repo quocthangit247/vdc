@@ -34,7 +34,7 @@ export class ProductBriefDto {
   category: string;
 
   @ApiProperty()
-  rating: string;
+  rating: number;
 
   @ApiProperty()
   sku: string;

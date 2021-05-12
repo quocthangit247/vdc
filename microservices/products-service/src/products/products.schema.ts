@@ -26,7 +26,7 @@ export class Product {
   specifications: Specification[];
 
   @Prop()
-  rating: string;
+  rating: number;
 
   @Prop()
   sku: string;

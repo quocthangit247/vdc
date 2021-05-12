@@ -35,16 +35,20 @@ export class ProductsService {
       this.productModel.countDocuments(condition),
     ]);
 
-    products.map(product => {
-      axios.put(`${process.env.TRACKING_SERVICE}/trackings/${product._id}`, {
-        productId: product._id,
-        actionTime: new Date().toString(),
-        actions: {
-          filtering: 1,
-          searching: 1,
-        },
+    try {
+      products.map(product => {
+        axios.put(`${process.env.TRACKING_SERVICE}/trackings/${product._id}`, {
+          productId: product._id,
+          actionTime: new Date().toString(),
+          actions: {
+            filtering: 1,
+            searching: 1,
+          },
+        });
       });
-    });
+    } catch (error) {
+      console.log('>>>>>>>>>>>>>>>>>>>', 'ProductsService => findAll', error);
+    }
 
     return OperationResult.ok(new Pagination({ data: products.map(i => new ProductBriefDto(i)), total }));
   }
@@ -55,16 +59,20 @@ export class ProductsService {
       throw ApplicationException.EntityNotFound(id);
     }
 
-    const body = {
-      actionTime: new Date().toString(),
-      actions: {
-        filtering: 0,
-        searching: 0,
-        viewing: 1,
-      },
-    };
+    try {
+      const body = {
+        actionTime: new Date().toString(),
+        actions: {
+          filtering: 0,
+          searching: 0,
+          viewing: 1,
+        },
+      };
 
-    axios.put(`${process.env.TRACKING_SERVICE}/trackings/${foundProduct._id}`, body);
+      axios.put(`${process.env.TRACKING_SERVICE}/trackings/${foundProduct._id}`, body);
+    } catch (error) {
+      console.log('>>>>>>>>>>>>>>>>>>>', 'ProductsService => getProductDetails', error);
+    }
 
     return OperationResult.ok(new ProductDto(foundProduct));
   }

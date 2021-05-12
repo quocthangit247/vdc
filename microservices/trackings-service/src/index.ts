@@ -1,7 +1,7 @@
 import { ValidationPipe } from '@nestjs/common';
 import { NestFactory } from '@nestjs/core';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
-import morgan from 'morgan';
+import * as morgan from 'morgan';
 import { AppModule } from './app/app.module';
 
 async function bootstrap() {
@@ -25,7 +25,6 @@ async function bootstrap() {
   );
 
   await app.listen(process.env.PORT || 3002);
-  console.log(`Application is running on: ${await app.getUrl()}`);
 }
 
 bootstrap().then(() => {
