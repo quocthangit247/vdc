@@ -20,10 +20,10 @@ export class Tracking {
   viewing: ActionTracking[];
 
   @Prop()
-  createdAt: string;
+  createdAt: Date;
 
   @Prop()
-  updatedAt: string;
+  updatedAt: Date;
 }
 
 export const TrackingSchema = SchemaFactory.createForClass(Tracking);

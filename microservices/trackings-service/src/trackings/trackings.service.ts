@@ -3,6 +3,7 @@ import { InjectModel } from '@nestjs/mongoose';
 import { LeanDocument, Model } from 'mongoose';
 import { ApplicationException } from 'src/app/app.exception';
 import { OperationResult } from 'src/app/common';
+import { checkEqualDate } from 'src/common';
 import { ActionDto, UpdateByProductIdReqDto } from './req/update-by-product-id.dto';
 import { TrackingDto } from './res/tracking.dto';
 import { TrackingDocument, TRACKINGS } from './trackings.schema';
@@ -21,9 +22,8 @@ export class TrackingsService {
     return OperationResult.ok(new TrackingDto(foundTracking));
   }
 
-  async updateByProductId(data: UpdateByProductIdReqDto): Promise<boolean> {
-    const { productId, actionTime, actions } = data;
-    console.log('>>>>>>>>>>>>>>>>>>>', '11111111 - updateByProductId', data);
+  async updateByProductId(productId: string, data: UpdateByProductIdReqDto): Promise<boolean> {
+    const { actionTime, actions } = data;
 
     let foundTracking = await this.trackingModel.findOne({ productId }).lean();
     if (!foundTracking) {
@@ -55,10 +55,10 @@ export class TrackingsService {
       });
     }
 
-    this.countAction(foundTracking, Action.filter, actions, actionTime);
-    this.countAction(foundTracking, Action.search, actions, actionTime);
+    this.countAction(foundTracking, Action.filter, actions, new Date(actionTime));
+    this.countAction(foundTracking, Action.search, actions, new Date(actionTime));
     if (actions.viewing) {
-      this.countAction(foundTracking, Action.view, actions, actionTime);
+      this.countAction(foundTracking, Action.view, actions, new Date(actionTime));
     }
 
     await this.trackingModel.findByIdAndUpdate(foundTracking._id, foundTracking, { upsert: true });
@@ -72,10 +72,14 @@ export class TrackingsService {
     actions: ActionDto,
     actionTime: Date,
   ) {
+    let hasCompleted = false;
     tracking[updatedField].forEach(item => {
-      if (item.createdAt === actionTime) {
+      if (checkEqualDate(actionTime.toISOString(), item.createdAt.toISOString())) {
         item.counter += actions[updatedField];
+        hasCompleted = true;
       }
     });
+    if (hasCompleted) return;
+    tracking[updatedField].push({ counter: actions[updatedField], updatedAt: new Date(), createdAt: new Date() });
   }
 }

@@ -28,9 +28,9 @@
     "@nestjs/microservices": "^7.6.15",
     "@nestjs/mongoose": "^7.2.4",
     "@nestjs/platform-express": "^7.6.15",
-    "swagger-ui-express": "^4.1.6",
     "@nestjs/platform-fastify": "^7.6.15",
     "@nestjs/swagger": "^4.8.0",
+    "axios": "^0.21.1",
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
     "dayjs": "^1.10.4",
@@ -41,6 +41,7 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.0.0",
+    "swagger-ui-express": "^4.1.6",
     "uuid": "^8.3.2"
   },
   "devDependencies": {

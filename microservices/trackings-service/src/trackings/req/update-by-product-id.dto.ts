@@ -6,6 +6,5 @@ export interface ActionDto {
 
 export interface UpdateByProductIdReqDto {
   actions: ActionDto;
-  actionTime: Date;
-  productId: string;
+  actionTime: string;
 }

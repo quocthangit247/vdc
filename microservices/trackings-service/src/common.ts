@@ -4,31 +4,22 @@ import * as customParseFormat from 'dayjs/plugin/customParseFormat';
 dayjs.extend(customParseFormat);
 
 export interface ICommon {
-  createdBy?: string | null;
   createdAt?: string;
-  updatedBy?: string | null;
   updatedAt?: string;
 }
 
 export class CommonDto {
   @ApiPropertyOptional()
-  createdBy?: string | null;
-
-  @ApiPropertyOptional()
   createdAt?: string;
-
-  @ApiPropertyOptional()
-  updatedBy?: string | null;
 
   @ApiPropertyOptional()
   updatedAt?: string;
 }
 
-export const checkValidDate = (date: string, fromDateProp: string, toDateProp: string): boolean => {
-  const comparedDate = new Date(dayjs(date, 'DD/MM/YYYY').toString()).getTime();
-  const fromDate = new Date(dayjs(fromDateProp, 'DD/MM/YYYY').toString()).getTime();
-  const toDate = new Date(dayjs(toDateProp, 'DD/MM/YYYY').toString()).getTime();
-  if (comparedDate >= fromDate && comparedDate <= toDate) {
+export const checkEqualDate = (date1: string, date2: string): boolean => {
+  const comparedDate1 = date1.slice(0, 10);
+  const comparedDate2 = date2.slice(0, 10);
+  if (comparedDate1 === comparedDate2) {
     return true;
   }
   return false;

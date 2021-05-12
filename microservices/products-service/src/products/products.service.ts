@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
+import axios from 'axios';
 import { Model } from 'mongoose';
 import { ApplicationException } from 'src/app/app.exception';
 import { OperationResult, Pagination } from 'src/app/common';
@@ -34,16 +35,16 @@ export class ProductsService {
       this.productModel.countDocuments(condition),
     ]);
 
-    // products.map(product => {
-    //   this.trackingService.updateByProductId({
-    //     productId: product._id,
-    //     actionTime: new Date(),
-    //     actions: {
-    //       filtering: 1,
-    //       searching: 1,
-    //     },
-    //   });
-    // });
+    products.map(product => {
+      axios.put(`${process.env.TRACKING_SERVICE}/trackings/${product._id}`, {
+        productId: product._id,
+        actionTime: new Date().toString(),
+        actions: {
+          filtering: 1,
+          searching: 1,
+        },
+      });
+    });
 
     return OperationResult.ok(new Pagination({ data: products.map(i => new ProductBriefDto(i)), total }));
   }
@@ -54,15 +55,16 @@ export class ProductsService {
       throw ApplicationException.EntityNotFound(id);
     }
 
-    // await this.trackingService.updateByProductId({
-    //   productId: foundProduct._id,
-    //   actionTime: new Date(),
-    //   actions: {
-    //     filtering: 0,
-    //     searching: 0,
-    //     viewing: 1,
-    //   },
-    // });
+    const body = {
+      actionTime: new Date().toString(),
+      actions: {
+        filtering: 0,
+        searching: 0,
+        viewing: 1,
+      },
+    };
+
+    axios.put(`${process.env.TRACKING_SERVICE}/trackings/${foundProduct._id}`, body);
 
     return OperationResult.ok(new ProductDto(foundProduct));
   }

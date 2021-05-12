@@ -1,22 +1,29 @@
+import { ValidationPipe } from '@nestjs/common';
 import { NestFactory } from '@nestjs/core';
-import { GrpcOptions, MicroserviceOptions, Transport } from '@nestjs/microservices';
-import { join } from 'path';
+import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
+import morgan from 'morgan';
 import { AppModule } from './app/app.module';
 
 async function bootstrap() {
-  const microserviceOptions: GrpcOptions = {
-    transport: Transport.GRPC,
-    options: {
-      url: 'localhost:34342',
-      package: 'tracking',
-      protoPath: join(__dirname, './tracking.proto'),
-    },
-  };
-
   const app = await NestFactory.create(AppModule);
-  app.connectMicroservice<MicroserviceOptions>(microserviceOptions);
 
-  await app.startAllMicroservicesAsync();
+  const options = new DocumentBuilder()
+    .setTitle('Product Service')
+    .setDescription('Product Service API')
+    .setVersion('1.0')
+    .addBearerAuth()
+    .build();
+  const document = SwaggerModule.createDocument(app, options);
+  SwaggerModule.setup('docs', app, document);
+
+  app.useGlobalPipes(new ValidationPipe());
+
+  app.use(
+    morgan(
+      '[:date[iso]] :remote-addr HTTP/:http-version :method :url HTTP-Code: :status Size: :res[content-length] bytes - Response-time: :response-time ms',
+    ),
+  );
+
   await app.listen(process.env.PORT || 3002);
   console.log(`Application is running on: ${await app.getUrl()}`);
 }
