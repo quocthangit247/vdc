@@ -1,0 +1,7 @@
+{
+  "packages": ["microservices/*"],
+  "version": "independent",
+  "npmClient": "yarn",
+  "concurrency": 8,
+  "useWorkspaces": true
+}

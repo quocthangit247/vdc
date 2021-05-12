@@ -1,0 +1,4227 @@
+[
+  {
+    "name": "name 1",
+    "brand": "Schaden LLC",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 3,
+    "sku": "sku 1",
+    "updatedAt": "2021-05-10T21:08:21.415Z",
+    "createdAt": "2020-10-19T11:15:23.564Z",
+    "variants": [
+      {
+        "listPrice": 700,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 800,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 2",
+    "brand": "Weissnat, Champlin and Shanahan",
+    "isActive": false,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 2,
+    "sku": "sku 2",
+    "updatedAt": "2021-05-10T20:45:38.649Z",
+    "createdAt": "2020-08-09T22:46:38.053Z",
+    "variants": [
+      {
+        "listPrice": 900,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "green",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 3",
+    "brand": "Jacobi LLC",
+    "isActive": false,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 0,
+    "sku": "sku 3",
+    "updatedAt": "2021-05-10T18:12:35.454Z",
+    "createdAt": "2021-01-18T11:56:13.497Z",
+    "variants": [
+      {
+        "listPrice": 1100,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "blue",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1200,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "purple",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 4",
+    "brand": "Borer - Blick",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 3,
+    "sku": "sku 4",
+    "updatedAt": "2021-05-11T14:23:24.742Z",
+    "createdAt": "2020-07-28T00:41:45.641Z",
+    "variants": [
+      {
+        "listPrice": 1300,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "purple",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1400,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 5",
+    "brand": "Hansen Group",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 2,
+    "sku": "sku 5",
+    "updatedAt": "2021-05-10T19:27:49.386Z",
+    "createdAt": "2020-11-27T16:03:50.474Z",
+    "variants": [
+      {
+        "listPrice": 1500,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1600,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 6",
+    "brand": "Purdy - Little",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 3,
+    "sku": "sku 6",
+    "updatedAt": "2021-05-11T02:08:52.611Z",
+    "createdAt": "2020-10-02T05:58:43.690Z",
+    "variants": [
+      {
+        "listPrice": 1800,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1700,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "white",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 7",
+    "brand": "Emmerich LLC",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 4,
+    "sku": "sku 7",
+    "updatedAt": "2021-05-11T03:40:06.194Z",
+    "createdAt": "2021-04-27T02:50:05.164Z",
+    "variants": [
+      {
+        "listPrice": 1900,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "gold",
+        "quantity": 10
+      },
+      {
+        "listPrice": 2000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 8",
+    "brand": "Lubowitz, Breitenberg and Runte",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 5,
+    "sku": "sku 8",
+    "updatedAt": "2021-05-10T18:14:19.536Z",
+    "createdAt": "2021-03-02T20:32:24.488Z",
+    "variants": [
+      {
+        "listPrice": 2100,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 2200,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 9",
+    "brand": "Hilpert Inc",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 2,
+    "sku": "sku 9",
+    "updatedAt": "2021-05-11T07:59:52.674Z",
+    "createdAt": "2020-12-25T00:35:37.580Z",
+    "variants": [
+      {
+        "listPrice": 2300,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 2400,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 10",
+    "brand": "Deckow, Rempel and Streich",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 3,
+    "sku": "sku 10",
+    "updatedAt": "2021-05-11T05:33:07.514Z",
+    "createdAt": "2020-08-11T21:49:46.602Z",
+    "variants": [
+      {
+        "listPrice": 2500,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 2600,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 11",
+    "brand": "Wunsch, Pfannerstill and Feil",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 4,
+    "sku": "sku 11",
+    "updatedAt": "2021-05-11T16:57:30.159Z",
+    "createdAt": "2021-03-24T23:59:58.319Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 12",
+    "brand": "Green - Kreiger",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 2,
+    "sku": "sku 12",
+    "updatedAt": "2021-05-11T00:33:38.087Z",
+    "createdAt": "2020-10-12T09:52:05.775Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 13",
+    "brand": "Bergstrom Group",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 4,
+    "sku": "sku 13",
+    "updatedAt": "2021-05-11T02:17:59.405Z",
+    "createdAt": "2021-01-26T07:44:49.061Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 14",
+    "brand": "Johns - Purdy",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 5,
+    "sku": "sku 14",
+    "updatedAt": "2021-05-11T09:56:40.302Z",
+    "createdAt": "2020-06-25T17:37:28.084Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 15",
+    "brand": "Hilll - Boehm",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 4,
+    "sku": "sku 15",
+    "updatedAt": "2021-05-11T03:55:05.327Z",
+    "createdAt": "2020-08-04T19:18:50.103Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 16",
+    "brand": "Eichmann - Pfeffer",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 2,
+    "sku": "sku 16",
+    "updatedAt": "2021-05-11T02:20:39.415Z",
+    "createdAt": "2021-01-02T16:11:32.561Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 17",
+    "brand": "Feeney and Sons",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 2,
+    "sku": "sku 17",
+    "updatedAt": "2021-05-11T15:04:17.847Z",
+    "createdAt": "2020-07-27T04:08:16.505Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 18",
+    "brand": "Hahn - Corkery",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 4,
+    "sku": "sku 18",
+    "updatedAt": "2021-05-11T16:58:02.616Z",
+    "createdAt": "2021-01-19T16:25:54.562Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 19",
+    "brand": "Ratke, Berge and Pouros",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 1,
+    "sku": "sku 19",
+    "updatedAt": "2021-05-11T10:21:47.888Z",
+    "createdAt": "2021-01-19T03:16:13.077Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 20",
+    "brand": "Krajcik, Abbott and Kuhlman",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 5,
+    "sku": "sku 20",
+    "updatedAt": "2021-05-10T17:50:37.257Z",
+    "createdAt": "2020-09-09T22:05:11.744Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 21",
+    "brand": "Rolfson Inc",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 3,
+    "sku": "sku 21",
+    "updatedAt": "2021-05-10T19:55:48.470Z",
+    "createdAt": "2020-09-12T20:40:55.415Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 22",
+    "brand": "Wuckert - Lynch",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 2,
+    "sku": "sku 22",
+    "updatedAt": "2021-05-11T17:00:53.435Z",
+    "createdAt": "2021-03-16T17:39:57.535Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 23",
+    "brand": "Kerluke Inc",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 5,
+    "sku": "sku 23",
+    "updatedAt": "2021-05-11T00:15:38.470Z",
+    "createdAt": "2021-02-01T21:01:19.680Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 24",
+    "brand": "Kshlerin and Sons",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 3,
+    "sku": "sku 24",
+    "updatedAt": "2021-05-11T08:09:08.676Z",
+    "createdAt": "2020-08-19T05:05:31.532Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "name": "name 25",
+    "brand": "Johnson - Gutmann",
+    "isActive": true,
+    "category": "category",
+    "description": "description",
+    "specifications": [
+      {
+        "name": "Băng tần 3G",
+        "value": "HSPA 42.2/5.76 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "V5.0"
+      },
+      {
+        "name": "Thương hiệu",
+        "value": "Apple"
+      },
+      {
+        "name": "Xuất xứ thương hiệu",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Camera sau",
+        "value": "12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS; 12 MP, f/2.0, 52mm (telephoto), 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom; 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6\" TOF 3D LiDAR scanner (depth)"
+      },
+      {
+        "name": "Camera trước",
+        "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\" SL 3D, (depth/biometrics sensor)"
+      },
+      {
+        "name": "Hỗ trợ thẻ nhớ ngoài",
+        "value": "Không"
+      },
+      {
+        "name": "Chip đồ họa (GPU)",
+        "value": "Apple GPU (4-core graphics)"
+      },
+      {
+        "name": "Chip set",
+        "value": "Apple A14 Bionic (5 nm)"
+      },
+      {
+        "name": "NFC",
+        "value": "Có"
+      },
+      {
+        "name": "Kết nối dữ liệu",
+        "value": "3G, 4G, Bluetooth, GPRS, Wifi"
+      },
+      {
+        "name": "Đèn Flash",
+        "value": "Có"
+      },
+      {
+        "name": "Kích thước",
+        "value": "160.8 x 78.1 x 7.4 mm"
+      },
+      {
+        "name": "Loại/ Công nghệ màn hình",
+        "value": "Super Retina XDR OLED, HDR10, Dolby Vision, Wide color gamut, True-tone"
+      },
+      {
+        "name": "FM radio",
+        "value": "Không"
+      },
+      {
+        "name": "GPS",
+        "value": "A-GPS, GLONASS, GALILEO, QZSS"
+      },
+      {
+        "name": "Hỗ trợ 4G",
+        "value": "LTE-A (4CA) Cat16 1024/150 Mbps"
+      },
+      {
+        "name": "Phụ kiện đi kèm",
+        "value": "<p>Cáp, cây lấy Sim, HDSD</p>"
+      },
+      {
+        "name": "Model",
+        "value": "iphone 12 Pro Max 128g"
+      },
+      {
+        "name": "Jack tai nghe",
+        "value": "Lightning"
+      },
+      {
+        "name": "Số sim",
+        "value": 1
+      },
+      {
+        "name": "Loại pin",
+        "value": "Li-Ion"
+      },
+      {
+        "name": "Loại Sim",
+        "value": "Nano Sim, eSim"
+      },
+      {
+        "name": "Nghe nhạc",
+        "value": "Có"
+      },
+      {
+        "name": "Xuất xứ",
+        "value": "Trung Quốc"
+      },
+      {
+        "name": "Pin có thể tháo rời",
+        "value": "Không"
+      },
+      {
+        "name": "Cổng sạc",
+        "value": "Lightning"
+      },
+      {
+        "name": "Trọng lượng",
+        "value": "228g"
+      },
+      {
+        "name": "Quay phim",
+        "value": "Trước: 4K@24/30/60fps, 1080p@30/60/120fps, gyro-EIS; Sau: 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      {
+        "name": "Độ phân giải",
+        "value": "1284 x 2778 pixels"
+      },
+      {
+        "name": "ROM",
+        "value": "Tùy chọn 128GB/256GB/512GB"
+      },
+      {
+        "name": "Kích thước màn hình",
+        "value": "6.7 inch"
+      },
+      {
+        "name": "Video call",
+        "value": "Thông qua ứng dụng thứ 3"
+      },
+      {
+        "name": "Wifi",
+        "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+      },
+      {
+        "name": "Xem phim",
+        "value": "Có"
+      }
+    ],
+    "rating": 4,
+    "sku": "sku 25",
+    "updatedAt": "2021-05-10T22:02:11.158Z",
+    "createdAt": "2020-06-06T10:01:37.731Z",
+    "variants": [
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "red",
+        "quantity": 10
+      },
+      {
+        "listPrice": 1000,
+        "salePrice": 800,
+        "imageLink": "https://picsum.photos/200/300",
+        "color": "black",
+        "quantity": 6
+      }
+    ]
+  }
+]
